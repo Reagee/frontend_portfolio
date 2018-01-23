@@ -516,6 +516,11 @@
 
 /*--400%--*/
 @media screen and (max-width: 480px){
+
+	body{
+		-webkit-overflow-scrolling: touch;
+	}
+
 	.toggle{
 		display: block;
 		cursor: pointer;
@@ -531,12 +536,12 @@
 	.menu_bar{
 		width: 100%;
 		display: none;
+		background-color: rgba(0,0,0,0.4);
 	}
 
 	.menu_bar ul{
 		text-align: center;
 		width: 100%;
-
 	}
 
 	.menu_bar ul li{
@@ -562,11 +567,11 @@
 	}
 
 	.author_logo{
-		top: 15%;
+		top: 14%;
 	}
 
 	.author_logo img{
-		width: 70%;
+		width: 60%;
 	}
 
 	.title{
@@ -584,7 +589,12 @@
 
 	#start_page-bg{
 		background-repeat: no-repeat;
-		background-size:cover;
+		background-size:370%;
+	
+	}
+
+	.start_page{
+		height: 90vh;
 	}
 
 	.main_bottom_panel{
@@ -592,12 +602,19 @@
 	}
 
 	.about_me{
-		height: 200vh;
+		height: 240vh;
+	}
+
+	.skillbar-title{
+		width: 70px;
 	}
 
 	.about-me_content{
 		width: 100%;
-		height: 60%;
+		height: 70%;
+		padding-left: 5px;
+		padding-right: 5px;
+
 	}
 
 	.about_me-code{
@@ -605,8 +622,8 @@
 	}
 
 	.about_me h1{
-		width: 50%;
-		font-size: 1.7em;
+		width: 80%;
+		font-size: 2.5em;
 	}
 
 	.about_me p{
@@ -639,7 +656,7 @@
 	}
 
 	.projects_section{
-		height: 500vh;
+		height: 600vh;
 	}
 
 	.project{
@@ -648,12 +665,20 @@
 		padding-bottom: 20px;
 	}
 
+	.contact_section{
+		height: 310vh;
+	}
+
 	.contact_section-left_col{
-		height: 20%;
+		height: 25%;
+	}
+
+	.contact_section-right_col{
+		height: 75%;
 	}
 
 	.contact_section-content{
-		height: 295vh;
+		height: 100%;
 	}
 
 	.contact_section-right_col-content h1{
@@ -692,7 +717,7 @@
 
 	.contact_container-form h1{
 		width: 85%;
-		font-size: 1.6em;
+		font-size: 1.4em;
 		margin-top: -25px;
 		margin-bottom: 25px;
 	}
