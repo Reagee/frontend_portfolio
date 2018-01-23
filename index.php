@@ -128,14 +128,14 @@ if(isset($_POST['e-mail']))
 					<div class="skill-bar-percent">80%</div>
 				</div> <!-- End Skill Bar -->
 
-				<div class="skillbar clearfix " data-percent="15%">
-					<div class="skillbar-title" style="background: #2c3e50;"><span>jQuery</span></div>
+				<div class="skillbar clearfix " data-percent="25%">
+					<div class="skillbar-title" style="background: #2c3e50;"><span>PHP</span></div>
 					<div class="skillbar-bar" style="background: #2c3e50;"></div>
-					<div class="skill-bar-percent">15%</div>
+					<div class="skill-bar-percent">25%</div>
 				</div> <!-- End Skill Bar -->
 
 				<div class="skillbar clearfix " data-percent="40%">
-					<div class="skillbar-title" style="background: #46465e;"><span>PHP</span></div>
+					<div class="skillbar-title" style="background: #46465e;"><span>JS</span></div>
 					<div class="skillbar-bar" style="background: #5a68a5;"></div>
 					<div class="skill-bar-percent">40%</div>
 				</div> <!-- End Skill Bar -->
@@ -146,16 +146,16 @@ if(isset($_POST['e-mail']))
 					<div class="skill-bar-percent">85%</div>
 				</div> <!-- End Skill Bar -->
 
-				<div class="skillbar clearfix " data-percent="100%">
-					<div class="skillbar-title" style="background: #27ae60;"><span>SEO</span></div>
+				<div class="skillbar clearfix " data-percent="70%">
+					<div class="skillbar-title" style="background: #27ae60;"><span>Java+FX</span></div>
 					<div class="skillbar-bar" style="background: #2ecc71;"></div>
-					<div class="skill-bar-percent">100%</div>
+					<div class="skill-bar-percent">70%</div>
 				</div> <!-- End Skill Bar -->
 
-				<div class="skillbar clearfix " data-percent="60%">
+				<div class="skillbar clearfix " data-percent="50%">
 					<div class="skillbar-title" style="background: #124e8c;"><span>Photoshop</span></div>
 					<div class="skillbar-bar" style="background: #4288d0;"></div>
-					<div class="skill-bar-percent">60%</div>
+					<div class="skill-bar-percent">50%</div>
 				</div>			
 			</div>
 			<div class="about_me-code">
@@ -256,7 +256,7 @@ width:110px;
 		<div class="project">
 			<div class="project-left_col">
 				<h2>LimitlessGames.pl</h2>
-				<p>Strona stworzona na potrzeby nowopowstałego studia developerskiego zajmującego się tworzeniem gier mobilnych na platformy Android ora iOS.</p>
+				<p>Strona stworzona na potrzeby nowopowstałego studia developerskiego zajmującego się tworzeniem gier mobilnych na platformy Android ora iOS. Strona zrobiona od początku do końca ręcznie z pomocą HTML, CSS, JS oraz PHP.</p>
 				<button class="github_button">GitHub</button>
 				<button class="live_button">Live</button>
 				<h5 style="color:green;">Online</h5>
@@ -271,7 +271,7 @@ width:110px;
 			</div>
 			<div class="project-left_col reverse">
 				<h2 class="reverse">Wieik.info</h2>
-				<p>Strona stworzona na potrzeby nowopowstałego studia developerskiego zajmującego się tworzeniem gier mobilnych na platformy Android ora iOS.</p>
+				<p>Reinkarnacja strony wieik.ovh, służącej studentom uczelni Politechniki Krakowskiej do gromadzenia materiałów ze studiów. Strona bazuje na CMS od Wordpress.</p>
 				<button class="live_button">Live</button>
 				<button class="github_button">GitHub</button>
 				<div style="clear: both;"></div>
@@ -281,7 +281,7 @@ width:110px;
 		<div class="project">
 			<div class="project-left_col">
 				<h2>CsGlobal.pl</h2>
-				<p>Strona stworzona na potrzeby nowopowstałego studia developerskiego zajmującego się tworzeniem gier mobilnych na platformy Android ora iOS.</p>
+				<p>Bardzo prosta strona z wideo tłem. Zawierająca podstawowe informację o graczu, jego ustawieniach, konfiguracji gry itd. Stworzona za pomocą HTML+CSS+JS.</p>
 				<button class="github_button">GitHub</button>
 				<button class="live_button">Live</button>
 				<h5 style="color:red;">Offline</h5>
@@ -296,7 +296,7 @@ width:110px;
 			</div>
 			<div class="project-left_col reverse">
 				<h2>GryffindorFoundation.org</h2>
-				<p>Strona stworzona na potrzeby nowopowstałego studia developerskiego zajmującego się tworzeniem gier mobilnych na platformy Android ora iOS.</p>
+				<p>Strona informacyjna poświęcona fundacji Gryffindor. Bazuje jedynie na czystym HTML + CSS z małym użyciem języka PHP w celu obsługi formularza kontaktowego.</p>
 				<button class="live_button">Live</button>
 				<button class="github_button">GitHub</button>
 				<div style="clear: both;"></div>
@@ -306,7 +306,7 @@ width:110px;
 		<div class="project">
 			<div class="project-left_col">
 				<h2>Devilpaws.org</h2>
-				<p>Strona stworzona na potrzeby nowopowstałego studia developerskiego zajmującego się tworzeniem gier mobilnych na platformy Android ora iOS.</p>
+				<p>Strona stworzona dla organizacji e-sportowej. Opierała się na Wordpressie z wieloma modyfikacjami dotyczącymi wyglądu. Galeria, kontakt, blog.</p>
 				<button class="github_button">GitHub</button>
 				<button class="live_button">Live</button>
 				<h5 style="color:red;">Offline</h5>
